@@ -15,6 +15,9 @@ Create JMeter scripts to do load testing of the homepage and the product detail 
 How to execute :
 
 Import the project in eclipse IDE
+
 Identify testNG.xml
+
 Run testNG.xml
+
 Open the jmiter file provide there and run it .
